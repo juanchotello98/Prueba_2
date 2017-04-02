@@ -17,7 +17,7 @@
 using namespace std;
 
 class ExcepcionEnC{
-	
+	// esta es la tercera prueba
 public:
 
 //---Implemetacion de metodo esnumero para validar si un dato ingresado es un entero.
